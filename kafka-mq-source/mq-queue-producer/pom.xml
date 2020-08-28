@@ -4,7 +4,7 @@
          xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>de.openknowledge.showcase.kafka-mq-briding-showcase</groupId>
+    <groupId>de.huk.hsa.showcase.kafka-mq-briding-showcase</groupId>
     <artifactId>mq-queue-producer</artifactId>
     <version>0</version>
     <packaging>war</packaging>
