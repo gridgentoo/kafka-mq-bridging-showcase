@@ -24,7 +24,7 @@
         <version.microprofile>3.2</version.microprofile>
         <version.microprofile-reactive-messaging>1.0</version.microprofile-reactive-messaging>
         <version.rxjava>3.0.0</version.rxjava>
-        <version.kafka>2.5.0</version.kafka>
+        <version.kafka>2.6.3</version.kafka>
         <version.slf4j>1.7.30</version.slf4j>
         <version.jaeger>0.34.0</version.jaeger>
         <version.opentracing-kafka-client>0.0.20</version.opentracing-kafka-client>
